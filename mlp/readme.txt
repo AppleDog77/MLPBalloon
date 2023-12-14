@@ -10,4 +10,4 @@ This balloon's .zip file is redistributable, but don't delete anything! You don'
 
 V1.0.0 - Balloon Release
 
-V2.0.0 - Overhauled to make it more streamlined, added background picture by Black_Gryph0n (Dec 15, 2023)
+V2.0.0 - Overhauled to make it more streamlined, added background picture by BlackGryph0n (Dec 14, 2023)
