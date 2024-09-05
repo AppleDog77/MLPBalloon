@@ -22,7 +22,7 @@ name,MLP Balloon
 
 craftman,Odie
 craftmanw,Odie
-craftmanurl,https://odiesocean.wordpress.com
+craftmanurl,https://appledog77.github.io/
 
 //You may remember these three from the descript.txt file for a Ghost! They are essentially the same as before. Craftman is your name. Craftmanw is where you would put your name if it was written in non-alphanumeric characters, like Korean or Japanese or Russian or something. You can delete craftmanw if you want or aren't going to use it, but you should always have craftman.
 //craftmanurl is where you put your homepage or blog url or whatever, wherever you want people to contact you.
